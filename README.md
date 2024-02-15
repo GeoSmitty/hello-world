@@ -2,7 +2,7 @@
 **Hello-World**
 # Details
 Practicing creating a proper GitHub, by starting my first repository
-#How to Run the Program*
+# How to Run the Program
 Hello_World/
 └── 
     │── README.md
